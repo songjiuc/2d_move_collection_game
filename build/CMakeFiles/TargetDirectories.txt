@@ -1,3 +1,0 @@
-/Users/josong/CS6010_FinalProject/Project_Cat/build/CMakeFiles/Cat.dir
-/Users/josong/CS6010_FinalProject/Project_Cat/build/CMakeFiles/edit_cache.dir
-/Users/josong/CS6010_FinalProject/Project_Cat/build/CMakeFiles/rebuild_cache.dir
